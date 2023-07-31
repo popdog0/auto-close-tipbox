@@ -1,6 +1,6 @@
-两种会延时自动关闭的消息提示框。
+兩種會延時自動關閉的消息提示框。
 
-开发工具：QT5 + C++
+開發工具：QT5 + C++
 
 There are two kinds of message prompt box that will delay and close automatically.
 
